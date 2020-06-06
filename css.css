@@ -1,0 +1,53 @@
+<style>
+* {
+  box-sizing: border-box;
+}
+
+p {
+    font-size: 18px;
+}
+
+body {
+  font-family: Arial;
+  padding: 10px;
+  background: #f1f1f1;
+}
+
+
+.header {
+  padding: 2px;
+  text-align: center;
+  background: rgb(235, 232, 232);
+}
+
+.header h1 {
+  font-size: 50px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: rgb(175, 19, 19);
+}
+
+.footer {
+  padding: 2px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 2px;
+
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+</style>
